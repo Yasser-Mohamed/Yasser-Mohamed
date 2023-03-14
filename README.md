@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yasser-mohamed.github.io/My-Web/](https://yasser-mohamed.github.io/My-Web/)
 
-- 💬 Ask me about **JavaScript, React.js, Tailwindcss and Fron-End**
+- 💬 Ask me about **JavaScript, React.js, Tailwindcss and Front-End**
 
 - 📫 How to reach me **yassermr418@gmail.com**
 
